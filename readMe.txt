@@ -1,1 +1,1 @@
-Created the RTL Algorithm
+Programmed the RTL Algorithm
